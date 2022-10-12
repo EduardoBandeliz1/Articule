@@ -1,6 +1,25 @@
 body
 {
-    color: blue;
-    text-align: center;
+    color: firebrick;
+    text-align: left;
     font-family: "Arial";
+    font-size: 20px;
+    margin: 0%;
+    padding: 0%;
 }
+#container
+{
+    width: 85%;
+    padding: 2em;
+    text-align: left;
+    border: 5px solid #ddd;
+    margin: auto;
+}
+
+#container h1
+{
+    font-size: 30px;
+
+}
+
+
