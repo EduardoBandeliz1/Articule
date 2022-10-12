@@ -2,7 +2,7 @@ body
 {
     color: firebrick;
     text-align: left;
-    font-family: "cuorier";
+    font-family: "arial";
     font-size: 20px;
     margin: 0%;
     padding: 0%;
@@ -30,7 +30,7 @@ body
     width: 85%;
     padding: 1em;
     text-align: left;
-    border: 5px solid #ddd;
+    border: 5px solid rgb(221, 221, 221);
     margin: auto;
 }
 
